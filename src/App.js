@@ -114,6 +114,7 @@ const App = () => {
 							setSelectMicDeviceId={setSelectMicDeviceId}
 							micEnabled={micOn}
 							webcamEnabled={webcamOn}
+							
 						/>
 					</MeetingProvider>
 				</MeetingAppProvider>
